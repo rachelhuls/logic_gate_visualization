@@ -1,0 +1,22 @@
+.on {
+  fill: pink;
+}
+.area {
+  fill: white;
+}
+.area.pink {
+  fill: pink;
+}
+svg .area:hover {
+  fill: #f28c31;
+}
+
+body {
+  padding: 20px;
+  background-color: slategray;
+}
+
+path {
+  fill: green;
+  fill-opacity: 0.1;
+}
