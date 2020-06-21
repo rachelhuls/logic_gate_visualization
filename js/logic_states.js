@@ -1,4 +1,5 @@
 var allStates = $("svg.us > *");
+$(document).ready(function(){
 allStates.on("click", function () {
   $(this).toggleClass("pink");
 });
@@ -116,4 +117,5 @@ allStates.on("click", function () {
   ) {
     $("#answer").text("Neither A nor B");
   }
+});
 });
