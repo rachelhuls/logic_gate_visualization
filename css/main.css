@@ -1,14 +1,14 @@
 .on {
-  fill: pink;
+  fill: cadetblue;
 }
 .area {
   fill: white;
 }
 .area.pink {
-  fill: pink;
+  fill: cadetblue;
 }
 svg .area:hover {
-  fill: #f28c31;
+  fill: #307D94;
 }
 
 body {
