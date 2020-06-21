@@ -1,5 +1,5 @@
-var allStates = $("svg.us > *");
 $(document).ready(function(){
+var allStates = $("svg.us > *");  
 allStates.on("click", function () {
   $(this).toggleClass("pink");
 });
