@@ -15,8 +15,3 @@ body {
   padding: 20px;
   background-color: slategray;
 }
-
-path {
-  fill: green;
-  fill-opacity: 0.1;
-}
